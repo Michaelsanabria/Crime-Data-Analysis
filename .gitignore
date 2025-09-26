@@ -1,0 +1,7 @@
+# Ignore data and envs
+data/raw/
+data/processed/
+venv
+config/config.json
+__pycache__/
+.ipynb_checkpoints/

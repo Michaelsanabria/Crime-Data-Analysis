@@ -28,12 +28,12 @@ This project explores historical crime data from [Dataset Source, e.g., "Los Ang
 - **Tools:** Jupyter Lab, VSCode, Git/GitHub
 - **Data Source:** [Link to Dataset]
 
-## 📊 Sample Visualizations
+<!-- ## 📊 Sample Visualizations
 
-> (Insert preview images or GIFs of your plots or dashboards here)
+> (Insert preview images or GIFs of your plots or dashboards here) 
 
 ## 🚀 Getting Started
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crime-data-analytics.git
+   git clone https://github.com/your-username/crime-data-analytics.git -->
